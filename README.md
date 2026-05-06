@@ -1,4 +1,4 @@
-# 🐍 Python Lab Programs — 1st Year
+# 🐍 Python — 1st Year
 
 A complete collection of Python lab experiments and programs completed during **1st Year (Semester 1)**, covering all core topics taught in the curriculum — from basic syntax to object-oriented programming.
 
